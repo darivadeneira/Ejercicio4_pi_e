@@ -1,5 +1,4 @@
 import 'package:ejercicio4_pi/pantallas/page_inicial.dart';
-import 'package:ejercicio4_pi/pantallas/page_pi.dart';
 import 'package:flutter/material.dart';
 
 void main() {
